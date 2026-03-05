@@ -97,4 +97,3 @@ The network analysis suggests that multi-program entities represent disproportio
 OFAC Specially Designated Nationals (SDN) List  
 U.S. Department of the Treasury, Office of Foreign Assets Control  
 https://sanctionslist.ofac.treas.gov/Home/SdnList  
-Data is updated regularly — results will vary depending on download date.
